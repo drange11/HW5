@@ -1,3 +1,10 @@
+/*
+    Darian Range
+    CPSC 332
+    HW5
+    11/7/2022
+    Modified from https://github.com/end3r/Gamedev-Canvas-workshop
+*/
 var color1 = "#FFFF00";
 var color2 = "#ff0000";
 var color3 = "#008000";
