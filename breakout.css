@@ -1,0 +1,52 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+canvas {
+    background: #eee;
+    display: block;
+    margin: 0 auto;
+}
+
+.body {
+    padding-left: 30px;
+    padding-right: 30px;
+    margin: 0;
+}
+
+.menu {
+    justify-content: center;
+    display:block;
+    margin-top: 120px;
+    background-color: rgb(151, 232, 254);
+    flex: 1 0 100%;
+    box-shadow: 5px 5px 5px rgb(155, 196, 253);
+    height: fit-content;
+    padding: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    
+}
+
+.sideWays {
+    position: relative;
+    display: flex;
+    width: 100%;
+}
+
+.innbtn {
+    display:block;
+    width: fit-content;
+    width: 50%;
+    min-height: 30px;
+}
+
+.outbtn {
+    width: 100%;
+    min-height: 30px;
+}
+
+#myRange {
+    width: 100%
+}
